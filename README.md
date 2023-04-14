@@ -47,7 +47,7 @@ through organic search results are also being misallocated to sponsored ads, thu
 clicks estimate, which is leading to overestimation of ROI.
 
 
-### Using Experimental approach, designing experiment by determinig treatment and control variables, and unit of analysis
+### 2. Using Experimental approach, designing experiment by determinig treatment and control variables, and unit of analysis
 
 Unit of Observation: The unit of observation is the average sponsored and organic ad clicks on a platform
 for a given week.
