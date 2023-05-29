@@ -160,7 +160,8 @@ treatment and after on averag organic ad clicks.
 
 *coefficients(lm(avg_org~ after*treatment, data = did_ads))["after:treatment"]*
 ## after:treatment
-## 2293.222
+
+#### 2293.222
 
 So, the organic ads increase by 2293 in the absence of sponsored ads. Therefore, to estimate the correct
 ROI, we will calculate the correct traffic through sponsored ads by subtracting the number from the
